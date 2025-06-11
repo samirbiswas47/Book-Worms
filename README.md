@@ -1,3 +1,4 @@
 # Book-Worms
+
 npm install
-npm expo start
+npx expo start
